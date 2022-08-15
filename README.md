@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on LeetCode,Java.<br>🌱 I’m currently learning Data Structures.<br>💬 Ask me about anything.<br>⚡   Fun fact => I am curious about everything.
+🔭  I’m currently working on LeetCode,Java.<br>🌱 I’m currently learning Data Structures.<br>💬 Ask me about anything.<br>⚡   Fun fact => I like chocolates.
 
 
 ## 🌐 Socials:
